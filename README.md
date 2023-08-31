@@ -32,7 +32,7 @@
 - We're promoted to restart the nano to add it to the domain
 ![Alt text](<joining non-gui to our domain cyber.local.png>)
 # Joining Non-GUI Server to Domain Controller
-- In our Server manage, we can pair our nano server to our cyber.local domain.
+- In our Server manager, we can pair our nano server to our cyber.local domain.
 ![Alt text](<Joining non-gui to DC.png>)
 # Adding Clients to the Domain
 - Creating our enterprise by adding clients to the server, i did this by pairing a windows 10 and windows 7 machine.
